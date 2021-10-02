@@ -5,7 +5,9 @@ using namespace std;
 bool Prime(int);
 
 int main()
+
 {
+{}
 	double sum = 0;
 	int j = 0;
 	for (int i = 2; i < 100; i++ ){
