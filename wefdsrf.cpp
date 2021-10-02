@@ -7,7 +7,7 @@ bool Prime(int);
 int main()
 
 {
-{cout<<123;}
+{cout<<"1234\n";}
 	double sum = 0;
 	int j = 0;
 	for (int i = 2; i < 100; i++ ){
